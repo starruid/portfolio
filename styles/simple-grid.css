@@ -271,6 +271,16 @@ p {
   max-width: 700px;
   padding: 5px;
 }
+
+.L_img-size {
+  /* max-height: 1000px;
+  width:auto; */
+  box-sizing: border-box;
+  position: relative;
+  width: 200%;
+  max-width: 1400px;
+  padding: 5px;
+}
 .logo-size {
   display: block;
   margin-left: auto;
